@@ -1,0 +1,18 @@
+Luca Fernandez@LAPTOP-18GJ7MCP UCRT64 /d/NewGithub (master)
+$ /d/NewGithub
+bash: /d/NewGithub: Is a directory
+
+Luca Fernandez@LAPTOP-18GJ7MCP UCRT64 /d/NewGithub (master)
+$ git init -b main
+warning: re-init: ignored --initial-branch=main
+Reinitialized existing Git repository in D:/NewGithub/.git/
+
+Luca Fernandez@LAPTOP-18GJ7MCP UCRT64 /d/NewGithub (master)
+$ git add .
+
+Luca Fernandez@LAPTOP-18GJ7MCP UCRT64 /d/NewGithub (master)
+$ git commit -m "Initial commit"
+On branch master
+nothing to commit, working tree clean
+
+Luca Fernandez@LAPTOP-18GJ7MCP UCRT64 /d/NewGithub (master)
